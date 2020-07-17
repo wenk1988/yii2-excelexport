@@ -13,7 +13,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.13",
         "mikehaertl/php-tmpfile": "^1.0.0",
-        "phpoffice/phpexcel": "1.*"
+        "phpoffice/phpexcel": "dev-custom"
     },
     "autoload": {
         "psr-4": {
